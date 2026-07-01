@@ -21,3 +21,14 @@ A Netflix-inspired web application that allows users to browse movies, search by
 
 ## Author
 Deepa Kanchikatla
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](Home.png)
+
+### Login Page
+![Login Page](Login.png)
+
+### Movie List Page
+![Movie List Page](MovieList.png)
